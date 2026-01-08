@@ -18,6 +18,7 @@
 127.0.0.1 config.push.sogou.com
 127.0.0.1 get.sogou.com
 127.0.0.1 *.get.sogou.com
+127.0.0.1 v2.get.sogou.com
 127.0.0.1 cs3-upgrade-disk-genius-srv.sogou-diskmgr.com
 127.0.0.1 cdn2.ime.sogou.com
 127.0.0.1 bf.pinyin.sogou.com
