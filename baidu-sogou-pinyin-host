@@ -24,8 +24,14 @@
 127.0.0.1 bf.pinyin.sogou.com
 127.0.0.1 config-pdf-cdn.sogou-pdf.com
 127.0.0.1 sogou-client-cdn.vconew.com
-127.0.0.1 galileotelemetry.tencent.com 
 
+#<block-sogou ad>
+127.0.0.1 galileotelemetry.tencent.com 
+127.0.0.1 wfiles.gtimg.cn
+127.0.0.1 ime.gtimg.com
+127.0.0.1 sec.sginput.qq.com
+127.0.0.1 sdkreport.e.qq.com
+127.0.0.1 rdelivery.qq.com
 
 #<block-baidu>
 127.0.0.1 olime.baidu.com
