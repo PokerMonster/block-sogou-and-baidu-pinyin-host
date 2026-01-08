@@ -19,3 +19,11 @@
 127.0.0.1 get.sogou.com
 127.0.0.1 *.get.sogou.com
 #</block-sogou>
+#<block-baidu>
+127.0.0.1 olime.baidu.com
+127.0.0.1 dr-ime.baidu.com
+127.0.0.1 updateime.baidu.com
+127.0.0.1 tips.ime.baidu.com
+127.0.0.1 typing.bae.baidu.com
+127.0.0.1 pcinput.baidu.com
+#</block-baidu>
